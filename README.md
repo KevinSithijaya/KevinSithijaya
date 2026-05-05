@@ -60,16 +60,16 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinSithijaya&show_icons=true&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackadam25&show_icons=true&theme=highcontrast)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KevinSithijaya&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=blackadam25&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <details>
   <summary>🏆 <b>GitHub Awards</b></summary>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KevinSithijaya)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=blackadam25)
 
 </details>
 
