@@ -2,11 +2,20 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-### 🚀 About Me
-- 💻 **Full Stack Developer** | **Open Source Enthusiast** | **Tech Explorer**
-- ☕ Fueled by coffee and a passion for coding
-- 🌱 Always eager to learn
+I'm a passionate **Software Developer / IT Assistant** focused on building impactful applications and learning modern technologies. 
+
+- 🔭 I’m currently working on **[Your Current Project Name or Brief Description]**
+- 🌱 I’m currently learning **[Technology/Tool you are focusing on]**
+- ⚡ Fun fact: **[A short hobby or interesting fact about you]**
+- 📫 How to reach me: **your.email@example.com**
 - 🇱🇰 Based in the beautiful island nation of Sri Lanka
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** JavaScript, TypeScript, Python, HTML/CSS, SQL
+* **Frameworks & Libraries:** React, Node.js, Express, Next.js
+* **DevOps & Tools:** Git, Docker, VS Code, Postman
+* **Databases:** PostgreSQL, MongoDB
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -60,21 +69,23 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackadam25&show_icons=true&theme=highcontrast)](https://git.io/streak-stats)
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaveensithija25&show_icons=true&theme=radical" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=blackadam25&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaveensithija25&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <details>
   <summary>🏆 <b>GitHub Awards</b></summary>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=blackadam25)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kaveensithija25)
 
 </details>
 
 <details>
   <summary>📈 <b>GitHub Activity</b></summary>
 
-![Metrics](https://metrics.lecoq.io/KevinSithijaya?template=terminal&isocalendar=1&languages=1&followup=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FColombo)
+![Metrics](https://metrics.lecoq.io/kaveensithija25?template=terminal&isocalendar=1&languages=1&followup=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FColombo)
 </details>
